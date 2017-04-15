@@ -1,1 +1,1 @@
-# RNDemoApp
+# ReactNative demo app
